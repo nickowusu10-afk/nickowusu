@@ -36,3 +36,15 @@ A home-built Security Operations Center (SOC) lab demonstrating end-to-end log c
 - How Sysmon's XML-rendered event logs require both a base Windows TA and a Sysmon-specific TA for full field extraction
 - Real-world troubleshooting of a broken log pipeline (disabled event log channel, sourcetype naming mismatches)
 - Writing SPL `eval`/`case` logic to map raw telemetry to MITRE ATT&CK techniques
+
+
+## Dashboard
+
+![Process Creation Events](Screenshot%202026-08-19%20154205.png)
+
+![PowerShell Activity](Screenshot%202026-08-19%20154344.png)
+
+![File Creation Events](Screenshot%202026-08-19%20154439.png)
+
+![MITRE ATT&CK Detections](Screenshot%202026-08-19%20154533.png)
+
